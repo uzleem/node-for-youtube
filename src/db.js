@@ -1,4 +1,4 @@
-import mongoose from "mon`goose";
+import mongoose from "mongoose";
 
 // mongoose 연결
 mongoose

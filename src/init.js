@@ -1,5 +1,5 @@
-import "./db";
-import "./model/video";
+import "./db.js";
+import "./model/video.js";
 import app from "./server";
 const PORT = 4000;
 

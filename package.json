@@ -4,7 +4,7 @@
   "description": "my sideProject Youtube",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uzleem/VanillaJS.git"
+    "url": "git+https://github.com/uzleem/node-for-youtube.git"
   },
   "keywords": [
     "youtube"
@@ -15,9 +15,9 @@
   "author": "uzleem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uzleem/VanillaJS/issues"
+    "url": "https://github.com/uzleem/node-for-youtube/issues"
   },
-  "homepage": "https://github.com/uzleem/VanillaJS#readme",
+  "homepage": "https://github.com/uzleem/node-for-youtube#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dependencies": "^0.0.1",
@@ -33,4 +33,4 @@
     "@babel/preset-env": "^7.20.2",
     "nodemon": "^2.0.20"
   }
-} 
+}
