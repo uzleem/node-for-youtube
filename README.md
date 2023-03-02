@@ -1,21 +1,27 @@
-# NodeJS 사이드프로젝트 (50 / 100%)
+# 소개
 
-/ -> Home
-/join -> Join
-/login -> Login
-/search -> Search
+vanillaJS 사이드프로젝트 : youtube 웹페이지
 
-/ -> User
-/user/:id -> watch User
-/user/logout -> Log Out
-/user/edit -> Edit My Profile
-/user/delete -> Delete My User
+(현재는 LayOut만 작성되었고, 추후 내용 추가 예정)
 
-/ -> Video
-/video/:id/ -> watch Video
-/video/:id/edit -> Edit Video
-/video/:id/delete -> Delete Video
-/video/upload -> Upload Video
+<br><br>
 
-/video/comment -> Comment on a Video
-/video/comment/delete -> Delete a Comment of a Video
+# 목차
+
+> 배포링크
+
+> 동작
+
+<br><br>
+
+# 배포링크
+
+<br><br>
+
+# 기능
+
+<br><br>
+
+# TODO
+
+<br><br>
