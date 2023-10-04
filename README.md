@@ -1,6 +1,6 @@
 # 소개
 
-nodeJS 사이드프로젝트 : youtube 웹페이지
+nodeJS 사이드프로젝트 : youtube 웹페이지 (50% 완료, 미배포)
 
 (현재는 LayOut만 작성되었고, 추후 내용 추가 예정)
 
